@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module3"
+Attribute VB_Name = "sheetSortingByName"
 Sub sheetSortingByName()
     Application.ScreenUpdating = False
     Dim sheetCounter As Integer, i As Integer, j As Integer
