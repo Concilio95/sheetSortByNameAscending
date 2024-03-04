@@ -1,6 +1,6 @@
-'Attribute VB_Name = "sheetSortingByNameAscending"
+'Attribute VB_Name = "sheetSortByNameAscending"
 
-Sub sheetSortingByNameAscending()
+Sub sheetSortByNameAscending()
     Application.ScreenUpdating = False
     Dim sheetCounter As Integer, i As Integer, j As Integer
     sheetCounter = Sheets.Count
